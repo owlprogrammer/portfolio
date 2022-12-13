@@ -1,0 +1,20 @@
+body {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+.workimg1 {
+    height: 30%;
+    width: 30%;
+    border: 7px solid black;
+    border-radius: 2%;
+}
+
+.drscpt-content {
+    position: relative;
+    right: 31px;
+}
